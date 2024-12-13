@@ -16,7 +16,7 @@
 ### *Лаб 6* AskMe сайт (WEB, Технопарк)
 #### Репозиторий: https://github.com/IfroloffI/askme_frolov
 # Домашнее задание
-### *ДЗ* Приложение для знакомств _Ternura_ (WEB, команда DetДом 3.0)
+### *ДЗ* Приложение для знакомств _Ternura_ (WEB, команда ДетDOM 3.0)
 #### Репозиторий: https://github.com/IfroloffI/Ternura
 # Рубежные контроли
 ### РК1
