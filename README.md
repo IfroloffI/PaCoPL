@@ -10,8 +10,8 @@
 #### Репозиторий: https://github.com/IfroloffI/WeatherBot
 ### *Лаб 4* Парсер курсов валют MOEX (Telegram-бот)
 #### Репозиторий: https://github.com/IfroloffI/MOEXParseBot
-### *Лаб 5* Мессенджер (WEB, команда Elephango Team)
-#### Репозиторий: TODO: Сделать репозиторий
+### *Лаб 5* Мессенджер _Elephango_ (WEB, команда Elephango Team)
+#### Репозиторий: https://github.com/IfroloffI/ElephangoMessenger
 ### *Лаб 6* AskMe сайт (WEB, Технопарк)
 #### Репозиторий: https://github.com/IfroloffI/askme_frolov
 # Домашнее задание
